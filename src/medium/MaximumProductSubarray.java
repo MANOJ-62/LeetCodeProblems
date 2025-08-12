@@ -72,6 +72,5 @@ public class MaximumProductSubarray {
         MaximumProductSubarray maximumProductSubarray = new MaximumProductSubarray();
         System.out.println(maximumProductSubarray.maxProduct(new int[]{-3,-1,-1}));
     }
-
 }
 
